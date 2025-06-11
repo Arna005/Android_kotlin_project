@@ -1,4 +1,4 @@
-# Android_kotlin_project
+# MyPokemon
 
 MyPokemon er en Android-applikasjon som bruker Jetpack Compose og Kotlin. Brukere kan lage, lagre, slette og søke etter Pokémon i appen. Den bruker Retrofit og Room Database for lokal lagring og innhenting av data fra PokeAPI. Appen består av tre hovedskjermer:
 - Opprett Pokémon: Brukere kan skrive inn navn og type, som lagres i en lokal database.
