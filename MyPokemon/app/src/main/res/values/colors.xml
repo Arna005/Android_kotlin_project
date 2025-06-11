@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pokémon-inspired colors -->
+    <color name="pokemon_red">#FF0000</color> <!-- Red for accents -->
+    <color name="pokemon_blue">#3B4CCA</color> <!-- Blue for primary color -->
+    <color name="pokemon_yellow">#FFDE00</color> <!-- Yellow for secondary color -->
+    <color name="pokemon_white">#FFFFFF</color> <!-- White for backgrounds -->
+    <color name="pokemon_black">#000000</color> <!-- Black for text -->
+
+    <!-- Additional colors for UI elements -->
+    <color name="background">#F5F5F5</color> <!-- Light gray for background -->
+    <color name="surface">#FFFFFF</color> <!-- White for cards/surfaces -->
+    <color name="on_surface">#000000</color> <!-- Black for text on surfaces -->
+    <color name="primary">@color/pokemon_blue</color> <!-- Primary color -->
+    <color name="secondary">@color/pokemon_yellow</color> <!-- Secondary color -->
+    <color name="error">#FF0000</color> <!-- Error color (red) -->
+</resources>
